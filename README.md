@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 # Erika Tatchyn - Front-end Developer
-
-![Profile Picture](https://link.to/your/profile/picture)
+- 🔭 I’m currently working on React-Redux team project with GoIT.
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me: https://www.linkedin.com/in/erika-tatchyn/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: living in Scotland.
 
 ## Summary
 
