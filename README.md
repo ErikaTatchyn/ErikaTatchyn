@@ -40,10 +40,12 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 - Front-end Development Course - GOIT School, Ukraine - 2022-2023
 - Education Institution Management - National University "Lviv Polytechnic", Ukraine - 2010-2011 Master's degree (Honors)
 
-## Skills
-
 ### Hard Skills
 
+- JavaScript
+- Material UI
+- HTML5
+- CSS3
 - React
 - Redux toolkit
 - React Router
@@ -51,10 +53,6 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 
 ### Soft Skills
 
-- JavaScript
-- Material UI
-- HTML5
-- CSS3
 - Teamwork
 - Communication
 - Adaptability
