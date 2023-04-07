@@ -13,12 +13,12 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 
 ## Projects
 
-- **SmartStove** - web application that allows users to control stoves from their phones. The application was developed using React, RTK, Router, MUI, RHF. [Link](https://github.com/yourusername/smartstove)
-- **Phonebook** - web application to register, login and store contacts. The application was developed using React, RTK, Router, MUI. [Link](https://github.com/yourusername/phonebook)
-- **SimpleArt** - web application that allows to search for artwork and view it. The application developed with HTML, CSS, JavaScript, React, Redux-toolkit, and React-router. [Link](https://github.com/yourusername/simpleart)
-- **StudentGrades** - Python project that allows students to track their grades. [Link](https://github.com/yourusername/studentgrades)
-- **Filmoteka** - JavaScript team project. Developed a library page that displays movies and a movie modal that shows additional information about each movie. [Link](https://github.com/yourusername/filmoteka)
-- **IceCream** - Team project on developing layout for ice cream shop. Developed clients' reviews layout. [Link](https://github.com/yourusername/icecream)
+- **SmartStove** - web application that allows users to control stoves from their phones. The application was developed using React, RTK, Router, MUI, RHF. [Link](https://t1.amity.pp.ua/auth/signin)
+- **Phonebook** - web application to register, login and store contacts. The application was developed using React, RTK, Router, MUI. [Link](https://erikatatchyn.github.io/goit-react-hw-08-phonebook/)
+- **SimpleArt** - web application that allows to search for artwork and view it. The application developed with HTML, CSS, JavaScript, React, Redux-toolkit, and React-router. [Link](https://github.com/ErikaTatchyn/LaSoft-Academy-HomeWorks/tree/hw9)
+- **StudentGrades** - Python project that allows students to track their grades. [Link](https://github.com/ErikaTatchyn/python-grades)
+- **Filmoteka** - JavaScript team project. Developed a library page that displays movies and a movie modal that shows additional information about each movie. [Link](https://anzhelika-light.github.io/Work-smart-not-hard---JS-Project/)
+- **IceCream** - Team project on developing layout for ice cream shop. Developed clients' reviews layout. [Link](https://annakilchytska.github.io/team-work-smart-not-hard/)
 
 ## Work Experience
 
