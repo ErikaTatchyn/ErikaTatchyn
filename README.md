@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 # Erika Tatchyn - Front-end Developer
-- 🔭 I’m currently working on React-Redux team project with GoIT.
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on a Full-stack team project with CodeFirstGirls.
+- 🌱 I’m currently learning Python and MySQL.
 - 📫 How to reach me: https://www.linkedin.com/in/erika-tatchyn/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: living in Scotland.
+- ⚡ Fun fact: I live in Scotland.
 
 ## Summary
 
@@ -13,29 +13,33 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 
 ## Projects
 
-- **SmartStove** - web application that allows users to control stoves from their phones. The application was developed using React, RTK, Router, MUI, RHF. [Link](https://t1.amity.pp.ua/auth/signin)
+- **SmartStove** - a web application that allows users to control stoves from their phones. The application was developed using React, RTK, Router, MUI, RHF.
 - **Phonebook** - web application to register, login and store contacts. The application was developed using React, RTK, Router, MUI. [Link](https://erikatatchyn.github.io/goit-react-hw-08-phonebook/)
-- **SimpleArt** - web application that allows to search for artwork and view it. The application developed with HTML, CSS, JavaScript, React, Redux-toolkit, and React-router. [Link](https://github.com/ErikaTatchyn/LaSoft-Academy-HomeWorks/tree/hw9)
+- **SimpleArt** - a web application that allows you to search for artwork and view it. The application was developed with HTML, CSS, JavaScript, React, Redux toolkit, and React-router. [Link](https://github.com/ErikaTatchyn/LaSoft-Academy-HomeWorks/tree/hw9)
 - **StudentGrades** - Python project that allows students to track their grades. [Link](https://github.com/ErikaTatchyn/python-grades)
 - **Filmoteka** - JavaScript team project. Developed a library page that displays movies and a movie modal that shows additional information about each movie. [Link](https://anzhelika-light.github.io/Work-smart-not-hard---JS-Project/)
-- **IceCream** - Team project on developing layout for ice cream shop. Developed clients' reviews layout. [Link](https://annakilchytska.github.io/team-work-smart-not-hard/)
+- **IceCream** - Team project on developing the layout for the ice cream shop. Developed clients' review layout. [Link](https://annakilchytska.github.io/team-work-smart-not-hard/)
 
 ## Work Experience
 
 ### Trainee Front-end Developer
-**LaSoft** - October 2022 till now
+**LaSoft** - 2022-2-23
 
 - Develop and maintain high-quality front-end code for web applications using React, Redux Toolkit, React router, HTML5, CSS3, and JavaScript.
 - Collaborate with cross-functional teams to implement dynamic web solutions and improve user experience.
 - Troubleshoot and fix bugs, ensuring timely updates throughout the production lifecycle.
 
-### Project Manager
-**Christian Lingua** - June 2021 to July 2022
+### Web developer
+**RaceTrack** - 2023
 
-- Led a translation project, streamlined the verification process, trained and motivated team members.
+- Developed HR system features including an interview calendar, employee management, and admin tasks using React, React Router, Git, and MUI.
+- Collaborated with cross-functional teams to enhance the HR system's functionality and user experience.
+- Conducted troubleshooting and bug fixing, ensuring timely updates for a seamless user experience.
 
 ## Education
-
+- Code First Girls, UK - Software Degree Course JavaScript, Python, MySQL, Git - 2023
+- Level 8 Course - IT Professional Training, UK - Full Stack Development (Front-end development (HTML, CSS, JavaScript, React),
+Back-end (Node.js, Express, MongoDB)) - 2023
 - Level 7 Software Development Course - Glasgow Clyde College, UK - 2022-2023
 - Front-end Development Course - GOIT School, Ukraine - 2022-2023
 - Education Institution Management - National University "Lviv Polytechnic", Ukraine - 2010-2011 Master's degree (Honors)
