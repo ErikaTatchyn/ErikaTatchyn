@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 # Erika Tatchyn - Front-end Developer
-- 🔭 I’m currently working on a Full-stack team project with CodeFirstGirls.
-- 🌱 I’m currently learning Python and MySQL.
+- 🔭 I’m currently working on an eco 🌱 app with Giki.
+- 🌱 I’m currently learning React native, React query.
 - 📫 How to reach me: https://www.linkedin.com/in/erika-tatchyn/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I live in Scotland.
 
 ## Summary
 
-I am a skilled front-end developer with experience in React, Redux Toolkit, HTML5, CSS3, and JavaScript. With strong communication, teamwork, and troubleshooting skills, I am able to implement dynamic web solutions and maintain production quality.
+I am a skilled front-end developer with experience in React, Redux Toolkit, HTML5, CSS3, and JavaScript. I can implement dynamic web solutions and maintain production quality with strong communication, teamwork, and troubleshooting skills.
 
 ## Projects
 
