@@ -43,7 +43,7 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 - Collaborate with cross-functional team to implement dynamic mobile and web solutions and improve user experience.
 - Conducted troubleshooting and bug fixing for a seamless user experience.
 
-  ### Software engineer
+### Software engineer
 **NatWest** - 2024-now
 
 - Develop and maintain front-end code for applications using React, Javascript, testing libraries.
@@ -79,7 +79,6 @@ Back-end (Node.js, Express, MongoDB)) - 2023
 ## Languages
 
 - English - Fluent
-- Ukrainian - Native
 - Ukrainian - Native
 - Polish - Intermediate
 - German - Basic
