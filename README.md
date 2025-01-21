@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # Erika Tatchyn - Front-end Developer
-- 🔭 I’m currently working on an eco 🌱 app with Giki.
-- 🌱 I’m currently learning React native, React query.
+- 🔭 I’m currently working accessability features in NatWest bank.
+- 🌱 I’m currently learning Web components and Stencil.js.
 - 📫 How to reach me: https://www.linkedin.com/in/erika-tatchyn/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I live in Scotland.
@@ -23,7 +23,7 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 ## Work Experience
 
 ### Trainee Front-end Developer
-**LaSoft** - 2022-2-23
+**LaSoft** - 2022-2023
 
 - Develop and maintain high-quality front-end code for web applications using React, Redux Toolkit, React router, HTML5, CSS3, and JavaScript.
 - Collaborate with cross-functional teams to implement dynamic web solutions and improve user experience.
@@ -36,6 +36,20 @@ I am a skilled front-end developer with experience in React, Redux Toolkit, HTML
 - Collaborated with cross-functional teams to enhance the HR system's functionality and user experience.
 - Conducted troubleshooting and bug fixing, ensuring timely updates for a seamless user experience.
 
+### React Native developer
+**Giki** - 2023-2024
+
+- Develop and maintain high-quality cross-platform code for applications using React Native, Typescript, testing libraries.
+- Collaborate with cross-functional team to implement dynamic mobile and web solutions and improve user experience.
+- Conducted troubleshooting and bug fixing for a seamless user experience.
+
+  ### Software engineer
+**NatWest** - 2024-now
+
+- Develop and maintain front-end code for applications using React, Javascript, testing libraries.
+- Collaborate with cross-functional teams to implement dynamic web solutions and improve user experience.
+- Add accesability features for better user experience.
+  
 ## Education
 - Code First Girls, UK - Software Degree Course JavaScript, Python, MySQL, Git - 2023
 - Level 8 Course - IT Professional Training, UK - Full Stack Development (Front-end development (HTML, CSS, JavaScript, React),
@@ -65,6 +79,7 @@ Back-end (Node.js, Express, MongoDB)) - 2023
 ## Languages
 
 - English - Fluent
+- Ukrainian - Native
 - Ukrainian - Native
 - Polish - Intermediate
 - German - Basic
